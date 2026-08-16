@@ -1,0 +1,5 @@
+include:
+  - ./order-service/compose.yaml
+  - ./payment-service/compose.yaml
+  - ./inventory-service/compose.yaml
+  - ./notification-service/compose.yaml
