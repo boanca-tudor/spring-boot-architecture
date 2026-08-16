@@ -1,0 +1,12 @@
+[submodule "payment-service"]
+	path = payment-service
+	url = git@github.com:boanca-tudor/payment-service.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = git@github.com:boanca-tudor/inventory-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:boanca-tudor/notification-service.git
+[submodule "build-logic"]
+	path = build-logic
+	url = git@github.com:boanca-tudor/build-logic.git
