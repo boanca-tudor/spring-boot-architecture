@@ -10,3 +10,6 @@
 [submodule "build-logic"]
 	path = build-logic
 	url = git@github.com:boanca-tudor/build-logic.git
+[submodule "common"]
+	path = common
+	url = git@github.com:boanca-tudor/common-module.git
